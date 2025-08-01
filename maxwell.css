@@ -1,0 +1,26 @@
+h2 {
+    color: #1F5B3E;
+    text-align: center;
+}
+
+body {
+    background-color: #F6F7EB;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+p {
+    margin: 20px;
+}
+
+nav {
+    background-color: #123524;
+    border-bottom: 5px solid #1F5B3E;
+    padding: 10px;
+    text-align: center;
+    min-height: 100px;
+}
+
+nav img {
+    float: left;
+}
